@@ -1,36 +1,25 @@
 <!-- En tu archivo index.html -->
 <!DOCTYPE html>
+
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mi Página Principal</title>
-</head>
-<body>
+  </head>
+
+  <body>
+    <div id="encabezado-container"></div>
 
     
-    <div id="encabezado-container">
-        
-    </div>
-
-   
-
-    <!-- Resto del contenido de tu página principal -->
     <section>
-        <h2>Contenido principal</h2>
-        <p>Este es el contenido de la página principal.</p>
+      <h2>Contenido principal</h2>
+      <p>Este es el contenido de la página principal.</p>
     </section>
 
-     <!-- Script para cargar el encabezado -->
-     <script>
-        // Utilizando Fetch para obtener el contenido del encabezado.html
-        fetch('header.html')
-            .then(response => response.text())
-            .then(html => {
-                // Inserta el contenido del encabezado en el contenedor
-                document.getElementById('encabezado-container').innerHTML = html;
-            })
-            .catch(error => console.error('Error al cargar el encabezado', error));
-    </script>
-</body>
+    <!-- Script para cargar el encabezado -->
+    <script src="js/loadHeader.js"></script>
+    <!-- Script para cargar el encabezado -->
+    
+  </body>
 </html>
