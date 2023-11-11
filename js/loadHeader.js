@@ -3,6 +3,6 @@
   .then(response => response.text())
   .then(html => {
       // Inserta el contenido del encabezado en el contenedor
-      document.getElementById('encabezado-container').innerHTML = html;
+      document.getElementById('header-container').innerHTML = html;
   })
-  .catch(error => console.error('Error al cargar el encabezado', error));
+  .catch(error => console.error('Error loading header', error));
