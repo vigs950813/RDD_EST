@@ -237,8 +237,8 @@
     border-radius: 10px;
     font-weight: bold;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-    background-color: #4895D7;
-
+    background-color: #DFC0CF;
+    color: black;
     transition: background-color 0.25s linear 0s;
 
 }
@@ -246,14 +246,15 @@
 
 #containerManual>a {
     border-radius: 10px;
-    color: white;
+    color: black;
 }
 
 
 #containerManual:hover,
 #containerManual:hover>a {
 
-    background-color: #648AAB;
+    background-color: black;
+    color: white;
 
 }
 
