@@ -1,5 +1,5 @@
 .navbar{
-	background-color: #8A9FB9;
+	background-color: #7D0240;
 	margin-top: 1px;
 }
 
@@ -8,11 +8,16 @@
 li>.container{
     font-weight: bold;
     margin-right: 5px;
-    background-color: #E8C0D5;
+    background-color: #648AAB;
     transition: background-color 0.25s linear 0s;
     border-radius: 5px;
 
 }
+
+li>.container>a{
+  color: black;
+}
+
 
 li>.container:hover{
     font-weight: bold;
@@ -21,12 +26,6 @@ li>.container:hover{
     background-color: #F4E0EA;
 }
 
-li>.container:active{
-    font-weight: bold;
-    margin-right: 5px;
-    color: black;
-    background-color: #F4E0EA;
-}
 
 
 /*-----------------#TOGGLER1-----------------------*/
