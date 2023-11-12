@@ -5,7 +5,7 @@
   margin-bottom: 2px;
 }
 
-#indexNavItem{
+.nav-link{
      
   border-radius: 10px;
   font-weight: bold;
@@ -17,12 +17,12 @@
   transition: background-color 0.15s linear 0s;
 }
 
-#indexNavItem>a{
+.nav-link>a{
     border-radius: 10px;
     color: white;
 }
 
-#indexNavItem:hover, #indexNavItem:hover>a{
+.nav-link:hover, .nav-link:hover>a, .nav-link:active, .nav-link:active>a{
     background-color: #9C2260;
 }
 
