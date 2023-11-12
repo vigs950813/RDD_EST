@@ -16,7 +16,7 @@
     font-weight: bold;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
 
-    background-color: #648AAB;
+    background-color: #DFC0CF;
 
 
     transition: background-color 0.15s linear 0s;
@@ -26,14 +26,15 @@
 
 #containerInicio>a {
     border-radius: 10px;
-    color: white;
+    color: black;
 }
 
 
 #containerInicio:hover,
 #containerInicio:hover>a {
 
-    background-color: #4895D7;
+    background-color: #000000;
+    color: white;
 
 }
 
