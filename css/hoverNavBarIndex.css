@@ -5,7 +5,7 @@
 
 
 
-li>.container{
+.nav-item{
     margin-right: 5px;
     background-color: #EFDFE7;
     transition: background-color 0.25s linear 0s;
@@ -13,13 +13,13 @@ li>.container{
 
 }
 
-li>.container>a{
+.nav-item{
   color: black;
   font-weight: bold;
 }
 
 
-li>.container:hover, li>.container>a:hover,li>.container:active, li>.container>a:active{
+.nav-item:hover, .nav-item:hover, .nav-item:active, .nav-item:active{
     font-weight: bold;
     color: black;
     margin-right: 5px;
