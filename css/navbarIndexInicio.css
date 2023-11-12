@@ -1,8 +1,8 @@
-.nav-item{
-	font-size: 18px;
-  margin-left: 10px;
-  margin-top: 2px;
-  margin-bottom: 2px;
+.nav-item {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
 
@@ -11,28 +11,29 @@
 /*-----------------#CONTAINERINICIO------------------------*/
 
 #containerInicio {
-  
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
 
-  background-color: #648AAB;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+
+    background-color: #648AAB;
 
 
-  transition: background-color 0.15s linear 0s;
-  
+    transition: background-color 0.15s linear 0s;
+
 }
 
 
-#containerInicio>a{
-  border-radius: 10px;
-  color: white;
+#containerInicio>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerInicio:hover, #containerInicio:hover>a{
-  
-  background-color: #4895D7;
+#containerInicio:hover,
+#containerInicio:hover>a {
+
+    background-color: #4895D7;
 
 }
 
@@ -50,20 +51,20 @@
 
 
 #containerDropdown {
-  padding-left: 5px;
-  border-radius: 10px;
-  font-weight: bold;
-  transition: background-color 0.25s linear 0s;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  color: white;
+    padding-left: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.25s linear 0s;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    color: white;
 
-  background-color: #4895D7;
+    background-color: #4895D7;
 
 }
 
 
 #containerDropdown:hover {
-  background-color: #648AAB;
+    background-color: #648AAB;
 }
 
 
@@ -81,25 +82,26 @@
 /*-----------------#CONTAINERBIBREC------------------------*/
 #containerBibRec {
 
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    background-color: #4895D7;
 
-  transition: background-color 0.25s linear 0s;
-  
+    transition: background-color 0.25s linear 0s;
+
 }
 
 
-#containerBibRec>a{
-  border-radius: 10px;
-  color: white;
+#containerBibRec>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerBibRec:hover, #containerBibRec:hover>a{
-  
-  background-color: #648AAB;
+#containerBibRec:hover,
+#containerBibRec:hover>a {
+
+    background-color: #648AAB;
 
 }
 
@@ -111,23 +113,24 @@
 /*-----------------#CONTAINERGLOSARIO------------------------*/
 
 #containerGlosario {
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
-  transition: background-color 0.25s linear 0s;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    background-color: #4895D7;
+    transition: background-color 0.25s linear 0s;
 }
 
 
-#containerGlosario>a{
-  border-radius: 10px;
-  color: white;
+#containerGlosario>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerGlosario:hover, #containerGlosario:hover>a{
-  
-  background-color: #648AAB;
+#containerGlosario:hover,
+#containerGlosario:hover>a {
+
+    background-color: #648AAB;
 
 }
 
@@ -156,24 +159,25 @@
 
 #containerContactos {
 
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
-  transition: background-color 0.25s linear 0s;
-  
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    background-color: #4895D7;
+    transition: background-color 0.25s linear 0s;
+
 }
 
 
-#containerContactos>a{
-  border-radius: 10px;
-  color: white;
+#containerContactos>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerContactos:hover, #containerContactos:hover>a{
-  
-  background-color: #648AAB;
+#containerContactos:hover,
+#containerContactos:hover>a {
+
+    background-color: #648AAB;
 
 }
 
@@ -191,25 +195,26 @@
 
 #containerAcercaDe {
 
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    background-color: #4895D7;
 
-  transition: background-color 0.25s linear 0s;
-  
+    transition: background-color 0.25s linear 0s;
+
 }
 
 
-#containerAcercaDe>a{
-  border-radius: 10px;
-  color: white;
+#containerAcercaDe>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerAcercaDe:hover, #containerAcercaDe:hover>a{
-  
-  background-color: #648AAB;
+#containerAcercaDe:hover,
+#containerAcercaDe:hover>a {
+
+    background-color: #648AAB;
 
 }
 
@@ -222,25 +227,26 @@
 
 #containerManual {
 
-  border-radius: 10px;
-  font-weight: bold;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
+    background-color: #4895D7;
 
-  transition: background-color 0.25s linear 0s;
-  
+    transition: background-color 0.25s linear 0s;
+
 }
 
 
-#containerManual>a{
-  border-radius: 10px;
-  color: white;
+#containerManual>a {
+    border-radius: 10px;
+    color: white;
 }
 
 
-#containerManual:hover, #containerManual:hover>a{
-  
-  background-color: #648AAB;
+#containerManual:hover,
+#containerManual:hover>a {
+
+    background-color: #648AAB;
 
 }
 
@@ -258,15 +264,15 @@
 
 
 
-#toggler1{
-  border-width: 1px;
-  border-color: black;
-  background-color: #4895D7;
-  transition: background-color 0.25s linear 0s;
+#toggler1 {
+    border-width: 1px;
+    border-color: black;
+    background-color: #4895D7;
+    transition: background-color 0.25s linear 0s;
 }
 
 #toggler1:hover {
-  background-color: #648AAB;
+    background-color: #648AAB;
 }
 
 
