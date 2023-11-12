@@ -1,8 +1,9 @@
 #page-content-wrapper{
 
-	background-color: rgba(255, 255, 255, 0.89); 
+	background-color: red;
 	border-top-style: solid; 
 	border-top-color: white; 
 	border-width: 1px;
+	color: white;
 
 }
