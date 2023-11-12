@@ -22,6 +22,7 @@
 .nav-item:hover, .nav-item:hover, .nav-item:active, .nav-item:active{
     font-weight: bold;
     color: black;
+    opacity: 1;
     margin-right: 5px;
     background-color: #AE6188;
 }
