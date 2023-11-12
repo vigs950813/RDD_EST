@@ -10,6 +10,8 @@ botones.forEach(boton => {
         // Agregar la clase 'active' al botón actual
         this.classList.add('active');
 
+        
+
         // Puedes agregar aquí más lógica o acciones después de hacer clic
         // ...
     });

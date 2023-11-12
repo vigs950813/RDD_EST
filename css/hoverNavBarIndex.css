@@ -3,12 +3,16 @@
 .nav-link{
     font-weight: bold;
     margin-right: 5px;
-    background-color: blue;
+    background-color: #E8C0D5;
+    transition: background-color 0.25s linear 0s;
 }
 
-.nav-link>a{
-    color: white;
+.nav-link:hover{
+    font-weight: bold;
+    margin-right: 5px;
+    background-color: #F4E0EA;
 }
+
 
 /*-----------------#TOGGLER1-----------------------*/
 
