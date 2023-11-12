@@ -19,7 +19,7 @@ li>.container>a{
 }
 
 
-li>.container:hover, li>.container>a:hover{
+li>.container:hover, li>.container>a:hover,li>.container:active, li>.container>a:active{
     font-weight: bold;
     color: black;
     margin-right: 5px;
