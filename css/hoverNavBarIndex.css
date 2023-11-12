@@ -8,7 +8,7 @@
 li>.container{
     font-weight: bold;
     margin-right: 5px;
-    background-color: #648AAB;
+    background-color: #EFDFE7;
     transition: background-color 0.25s linear 0s;
     border-radius: 5px;
 
@@ -23,7 +23,7 @@ li>.container:hover{
     font-weight: bold;
     color: black;
     margin-right: 5px;
-    background-color: #F4E0EA;
+    background-color: #AE6188;
 }
 
 
