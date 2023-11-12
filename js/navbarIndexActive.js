@@ -1,5 +1,5 @@
 // Obtener todos los elementos con la clase 'miBoton'
-const botones = document.querySelectorAll('.nav-link');
+const botones = document.querySelectorAll('.container');
 
 // Agregar un evento clic a cada botón
 botones.forEach(boton => {
