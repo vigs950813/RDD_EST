@@ -6,11 +6,12 @@
     background-color: #E8C0D5;
     transition: background-color 0.25s linear 0s;
     border-radius: 5px;
-    
+
 }
 
 .nav-link:hover{
     font-weight: bold;
+    color: black;
     margin-right: 5px;
     background-color: #F4E0EA;
 }
@@ -18,6 +19,7 @@
 .nav-link:active{
     font-weight: bold;
     margin-right: 5px;
+    color: black;
     background-color: #F4E0EA;
 }
 
