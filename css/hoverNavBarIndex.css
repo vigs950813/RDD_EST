@@ -19,15 +19,17 @@
 }
 
 
-.nav-item:hover, .nav-item:hover, .nav-item.clicked, .nav-item.clicked{
+.nav-item:hover, .nav-item:hover{
     font-weight: bold;
     color: black;
-    opacity: 1;
+    opacity: 5;
     margin-right: 5px;
     background-color: #AE6188;
 }
 
-
+.nav-item.clicked{
+  background-color: blue;
+}
 
 /*-----------------#TOGGLER1-----------------------*/
 

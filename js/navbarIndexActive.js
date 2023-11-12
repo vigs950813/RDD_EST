@@ -1,18 +1,15 @@
-// Obtener todos los elementos con la clase 'miBoton'
-const botones = document.querySelectorAll(".nav-item");
+// Obtener todos los elementos con la clase miDiv
+var navItemList = document.querySelectorAll('.nav-item');
 
-// Agregar un evento clic a cada botón
-botones.forEach(boton => {
-    boton.addEventListener('click', function() {
-        // Eliminar la clase 'active' de todos los botones
-        botones.forEach(b => b.classList.remove('active'));
+// Agregar un listener de clic a cada div
+navItemList.forEach(function (navtItem) {
+    navtItem.addEventListener('click', function () {
+        // Quitar la clase 'clicked' de todos los divs
+        navItemList.forEach(function (innerItem) {
+            innerDiv.classList.remove('clicked');
+        });
 
-        // Agregar la clase 'active' al botón actual
-        this.classList.add('active');
-
-        
-
-        // Puedes agregar aquí más lógica o acciones después de hacer clic
-        // ...
+        // Agregar la clase 'clicked' solo al div clicado
+        navtItem.classList.add('clicked');
     });
 });
