@@ -1,10 +1,13 @@
 
-a{
-    color: white;
-}
 
 .nav-link{
     font-weight: bold;
+    margin-right: 5px;
+    background-color: blue;
+}
+
+.nav-link>a{
+    color: white;
 }
 
 /*-----------------#TOGGLER1-----------------------*/
