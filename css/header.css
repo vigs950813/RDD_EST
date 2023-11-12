@@ -13,6 +13,7 @@ header {
 }
 
 /* Estilo para pantallas más pequeñas (responsivo) */
+/*
 @media screen and (max-width: 768px) {
     header {
     flex-direction: column;
@@ -21,4 +22,4 @@ header {
 .column {
     margin: 5px 0;
     }
-}
+}*/
