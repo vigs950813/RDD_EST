@@ -1,12 +1,16 @@
-// Obtener el id que quieres buscar (puedes cambiarlo según tus necesidades)
-const idBuscado = 'boton2';
+// Obtener todos los elementos con la clase 'miBoton'
+const botones = document.querySelectorAll('.nav-link');
 
-// Utilizar querySelectorAll con un selector de atributo
-const elementosConId = document.querySelectorAll('.miBoton[id="' + idBuscado + '"]');
+// Agregar un evento clic a cada botón
+botones.forEach(boton => {
+    boton.addEventListener('click', function() {
+        // Eliminar la clase 'active' de todos los botones
+        botones.forEach(b => b.classList.remove('active'));
 
-// Ahora elementosConId contiene todos los elementos con la clase 'miBoton' y el id especificado
+        // Agregar la clase 'active' al botón actual
+        this.classList.add('active');
 
-// Hacer algo con los elementos encontrados (por ejemplo, agregar la clase 'active')
-elementosConId.forEach(elemento => {
-    elemento.classList.add('active');
+        // Puedes agregar aquí más lógica o acciones después de hacer clic
+        // ...
+    });
 });
