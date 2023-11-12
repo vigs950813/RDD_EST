@@ -8,16 +8,16 @@
 
     <!-- LINKS -->
 
-     <!-- Core theme CSS (includes Bootstrap)-->
-     <link href="css/styles.css" rel="stylesheet" />
-     <!-- Core theme CSS (includes Bootstrap)-->
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
 
     <!-- HEADER CSS -->
     <link rel="stylesheet" type="text/css" href="css/header.css" />
     <!-- HEADER CSS -->
 
     <!-- WRAPPER CSS -->
-    <link rel="stylesheet" type="text/css" href="css/wrapper.css">
+    <link rel="stylesheet" type="text/css" href="css/wrapper.css" />
     <!-- WRAPPER CSS -->
 
     <!-- HEADER CSS -->
@@ -25,7 +25,7 @@
     <!-- HEADER CSS -->
 
     <!-- NAVBAR CSS -->
-    <link rel="stylesheet" type="text/css" href="css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="css/navbar.css" />
     <!-- NAVBAR CSS -->
 
     <!-- FOOTER CSS -->
@@ -51,7 +51,7 @@
     <!-- FOOTER LOADER -->
     <script src="js/loadFooter.js"></script>
     <!-- FOOTER LOADER -->
-    
+
     <!-- LOADERS -->
   </head>
 
@@ -60,108 +60,91 @@
     <div id="header-container"></div>
     <!-- HEADER -->
 
- <!------------------------------------------WRAPPER----------------------------------------->
- <div class="d-flex" id="wrapper">
-    <!--------------------------------------SIDEBAR---------------------------------------->
+    <!------------------------------------------WRAPPER----------------------------------------->
+    <div class="d-flex" id="wrapper">
+      <!--------------------------------------SIDEBAR---------------------------------------->
 
-    <!--------------------------------------SIDEBAR---------------------------------------->
+      <!--------------------------------------SIDEBAR---------------------------------------->
 
-    <!----------------------------------CONTENIDO DE WRAPPER-------------------------------->
-    <div id="page-content-wrapper">
+      <!----------------------------------CONTENIDO DE WRAPPER-------------------------------->
+      <div id="page-content-wrapper">
         <!------------------------------------NAVBAR------------------------------------>
-        <nav class="navbar navbar-expand-lg navbar-light bg-gradient border-bottom">
+        <nav
+          class="navbar navbar-expand-lg navbar-light bg-gradient border-bottom"
+        >
+          <div class="container-fluid">
+            <button
+              class="navbar-toggler"
+              id="toggler1"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
 
-            <div class="container-fluid">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
+                <li class="nav-item">
+                  <div class="container">
+                    <a class="nav-link" href="index.html"> Inicio </a>
+                  </div>
+                </li>
+                <!--------------------------DROPDOWN MENU---------------------------->
+                <li class="nav-item dropdown">
+                  <div
+                    class="container nav-link dropdown-toggle"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    <!--Unidades de aprendizaje (proximamente)-->
+                    Contenido
+                  </div>
 
-                <button class="navbar-toggler" id="toggler1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <div
+                    class="dropdown-menu dropdown-menu-end"
+                    aria-labelledby="navbarDropdown"
+                  >
+                    <!--------------------------UNIDAD 1------------------------->
+                    <a class="dropdown-item" href="pages/#">
+                      &#8544;. Relación sociedad - naturaleza
+                    </a>
+                    <!--------------------------UNIDAD 1------------------------->
+                  </div>
+                </li>
+                <!--------------------------DROPDOWN MENU---------------------------->
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Bibliografía y recursos</a>
+                </li>
 
-                  <span class="navbar-toggler-icon"></span>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Glosario</a>
+                </li>
 
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-                    <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
-
-                        <li class="nav-item">
-
-                          
-                            <a class="nav-link" href="index.html">
-                              
-                                Inicio
-                              
-                            </a>  
-                          
-                          
-                          
-                        </li>
-                        <!--------------------------DROPDOWN MENU---------------------------->
-                        <li class="nav-item dropdown">
-                            
-                            <div class="container nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-
-                                
-                                  <!--Unidades de aprendizaje (proximamente)-->
-                                  Contenido
-                                
-                              
-                            </div>
-                            
-                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-
-                                <!--------------------------UNIDAD 1------------------------->
-                                <a class="dropdown-item" href="pages/#">
-                                  &#8544;. Relación sociedad - naturaleza
-                                </a>
-                                <!--------------------------UNIDAD 1------------------------->
-
-                            </div>
-                        </li>
-                        <!--------------------------DROPDOWN MENU---------------------------->                                
-                        <li class="nav-item">
-                          
-                            <a class="nav-link" href="#">Bibliografía y recursos</a>  
-                          
-                        </li>
-
-                        <li class="nav-item">
-                          
-                            <a class="nav-link" href="#">Glosario</a>  
-                          
-                        </li>
-
-
-
-                        <li class="nav-item">
-                          
-                            <a class="nav-link" href="#" >Manual de usuario</a>
-                          
-                        </li>
-                        
-
-                    </ul>
-                </div>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Manual de usuario</a>
+                </li>
+              </ul>
             </div>
+          </div>
         </nav>
         <!------------------------------------NAVBAR------------------------------------>
         <!--------------------------------CONTENIDO PRINCIPAL-------------------->
         <div class="container-fluid">
-
-
-            <!--------------------------------SECTION1-------------------->
-            <section>
-
-              contenido PRINCIPAL--------------------
-                
-            </section>
-            <!--------------------------------SECTION1-------------------->
-
+          <!--------------------------------SECTION1-------------------->
+          <section>contenido PRINCIPAL--------------------</section>
+          <!--------------------------------SECTION1-------------------->
         </div>
         <!--------------------------------CONTENIDO PRINCIPAL-------------------->
+      </div>
+      <!----------------------------------CONTENIDO DE WRAPPER-------------------------------->
     </div>
-    <!----------------------------------CONTENIDO DE WRAPPER-------------------------------->            
-</div>
-<!------------------------------------------WRAPPER----------------------------------------->
+    <!------------------------------------------WRAPPER----------------------------------------->
 
     <!-- FOOTER -->
     <div id="footer-container"></div>
@@ -175,10 +158,6 @@
     ></script>
     <!-- BOOTSTRAP JS -->
 
-  <script
-  src="js/navbarIndexActive.js">
-
-  </script>
-
+    <script src="js/navbarIndexActive.js"></script>
   </body>
 </html>
