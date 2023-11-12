@@ -273,14 +273,12 @@
 
 
 #toggler1 {
-    border-width: 1px;
-    border-color: black;
-    background-color: #4895D7;
+    background-color: #DFC0CF;
     transition: background-color 0.25s linear 0s;
 }
 
 #toggler1:hover {
-    background-color: #648AAB;
+    background-color: #A7909B;
 }
 
 
