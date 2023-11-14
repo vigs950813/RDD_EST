@@ -84,7 +84,7 @@
   border-radius: 10px;
   font-weight: bold;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+  background-color: #AE6188;
 
   transition: background-color 0.25s linear 0s;
   
@@ -99,7 +99,7 @@
 
 #containerBibRec:hover, #containerBibRec:hover>a{
   
-  background-color: #648AAB;
+  background-color: #8D2258;
 
 }
 
@@ -114,7 +114,7 @@
   border-radius: 10px;
   font-weight: bold;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+  background-color: #AE6188;
   transition: background-color 0.25s linear 0s;
 }
 
@@ -127,7 +127,7 @@
 
 #containerGlosario:hover, #containerGlosario:hover>a{
   
-  background-color: #648AAB;
+  background-color: #8D2258;
 
 }
 
@@ -159,7 +159,7 @@
   border-radius: 10px;
   font-weight: bold;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+  background-color: #AE6188;
   transition: background-color 0.25s linear 0s;
   
 }
@@ -173,7 +173,7 @@
 
 #containerContactos:hover, #containerContactos:hover>a{
   
-  background-color: #648AAB;
+  background-color: #8D2258;
 
 }
 
@@ -194,7 +194,7 @@
   border-radius: 10px;
   font-weight: bold;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+  background-color: #AE6188;
 
   transition: background-color 0.25s linear 0s;
   
@@ -209,7 +209,7 @@
 
 #containerAcercaDe:hover, #containerAcercaDe:hover>a{
   
-  background-color: #648AAB;
+  background-color: #8D2258;
 
 }
 
@@ -225,7 +225,7 @@
   border-radius: 10px;
   font-weight: bold;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.20);
-  background-color: #4895D7;
+  background-color: #AE6188;
 
   transition: background-color 0.25s linear 0s;
   
@@ -240,7 +240,7 @@
 
 #containerManual:hover, #containerManual:hover>a{
   
-  background-color: #648AAB;
+  background-color: #8D2258;
 
 }
 
@@ -261,12 +261,12 @@
 #toggler1{
   border-width: 1px;
   border-color: black;
-  background-color: #4895D7;
+  background-color: #AE6188;
   transition: background-color 0.25s linear 0s;
 }
 
 #toggler1:hover {
-  background-color: #648AAB;
+  background-color: #8D2258;
 }
 
 
