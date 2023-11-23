@@ -1,3 +1,4 @@
+
 /*-----------------------FONDOSIDEBAR-------------------------------*/
 #sidebar-wrapper{
 	--bs-bg-opacity: 0.15;
@@ -21,7 +22,7 @@
 #sidebarBtnDisabled{
 	color: white;
 	font-weight: bold; 
-	background-color: #598099;
+	background-color: #47112C;
 }
 /*-----------------------TITULOUNIDAD-------------------------------*/
 
@@ -33,7 +34,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -42,8 +43,7 @@
 #sidebarBtnIntroduccion:hover{
 
 	font-weight: bold;
-	background-color: #7B8992;
-	
+	background-color: #8D2258;
 
 }
 
@@ -55,7 +55,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -63,7 +63,7 @@
 
 #sidebarBtnPUA:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 
@@ -72,12 +72,13 @@
 /*-----------------------PROPOSITO UA-------------------------------*/
 
 
+
 /*-----------------------1.1 ObjComp-------------------------------*/
 #sidebarBtn11ObjComp{
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -85,21 +86,17 @@
 
 #sidebarBtn11ObjComp:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------1.1 ObjComp-------------------------------*/
-
-
-
-
 
 /*-----------------------U11-------------------------------*/
 #sidebarBtnU11{
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -107,20 +104,11 @@
 
 #sidebarBtnU11:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 
 /*-----------------------U11-------------------------------*/
-
-
-
-
-
-
-
-
-
 
 
 
@@ -130,7 +118,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;	
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -138,8 +126,7 @@
 
 #sidebarBtnU111:hover{
 
-	background-color: #7B8992;
-	
+	background-color: #8D2258;
 
 }
 
@@ -151,7 +138,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #7B8992;	
+	background-color: #8D2258;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -159,7 +146,7 @@
 
 #sidebarBtnU112:hover{
 
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 
 }
 /*-----------------------U112-------------------------------*/
@@ -170,7 +157,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;	
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -178,7 +165,7 @@
 
 #sidebarBtnU113:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U113-------------------------------*/
@@ -190,7 +177,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -198,7 +185,7 @@
 
 #sidebarBtn12ObjComp:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------1.2 ObjComp-------------------------------*/
@@ -209,7 +196,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -217,7 +204,7 @@
 
 #sidebarBtnU12:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U112-------------------------------*/
@@ -227,7 +214,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -235,17 +222,54 @@
 
 #sidebarBtnU121:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U1121-------------------------------*/
+
+
+/*-----------------------U122-------------------------------*/
+#sidebarBtnU122{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnU122:hover{
+
+	background-color: #8D2258;
+
+}
+/*-----------------------U1122-------------------------------*/
+
+/*-----------------------U123-------------------------------*/
+#sidebarBtnU123{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnU123:hover{
+
+	background-color: #8D2258;
+
+}
+/*-----------------------U1123-------------------------------*/
 
 /*-----------------------Act1Res-------------------------------*/
 #sidebarBtnAct1{
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -253,7 +277,7 @@
 
 #sidebarBtnAct1:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------Act1Res-------------------------------*/
@@ -266,7 +290,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -274,7 +298,7 @@
 
 #sidebarBtnAct2:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 
@@ -296,7 +320,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -304,7 +328,7 @@
 
 #sidebarBtnAct3:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------Act3Res-------------------------------*/
@@ -327,7 +351,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -335,7 +359,7 @@
 
 #sidebarBtnAct4:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------Act4Res-------------------------------*/
@@ -354,7 +378,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -362,11 +386,10 @@
 
 #sidebarBtnAct5:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------Act5Res-------------------------------*/
-
 
 
 
@@ -376,7 +399,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -384,7 +407,7 @@
 
 #sidebarBtn13ObjComp:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------1.3 ObjComp-------------------------------*/
@@ -394,7 +417,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -402,7 +425,7 @@
 
 #sidebarBtnU13:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U13-------------------------------*/
@@ -412,7 +435,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -420,7 +443,7 @@
 
 #sidebarBtnU131:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U1131-------------------------------*/
@@ -430,7 +453,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -438,7 +461,7 @@
 
 #sidebarBtnU132:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U1132-------------------------------*/
@@ -448,7 +471,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -456,10 +479,69 @@
 
 #sidebarBtnU133:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
-/*-----------------------U1133-------------------------------*/
+/*-----------------------U133-------------------------------*/
+
+
+/*-----------------------U134-------------------------------*/
+#sidebarBtnU134{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnU134:hover{
+
+	background-color: #8D2258;
+
+}
+/*-----------------------U134-------------------------------*/
+
+
+/*-----------------------U135-------------------------------*/
+#sidebarBtnU135{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnU135:hover{
+
+	background-color: #8D2258;
+
+}
+/*-----------------------U135-------------------------------*/
+
+
+/*-----------------------U136-------------------------------*/
+#sidebarBtnU136{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnU136:hover{
+
+	background-color: #8D2258;
+
+}
+/*-----------------------U136-------------------------------*/
+
+
 
 
 /*-----------------------1.4 ObjComp-------------------------------*/
@@ -467,7 +549,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -475,17 +557,18 @@
 
 #sidebarBtn14ObjComp:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------1.4 ObjComp-------------------------------*/
+
 
 /*-----------------------U14-------------------------------*/
 #sidebarBtnU14{
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -493,7 +576,7 @@
 
 #sidebarBtnU14:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U14-------------------------------*/
@@ -503,7 +586,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -511,7 +594,7 @@
 
 #sidebarBtnU141:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U141-------------------------------*/
@@ -522,7 +605,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -530,7 +613,7 @@
 
 #sidebarBtnU142:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U142-------------------------------*/
@@ -541,7 +624,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -549,7 +632,7 @@
 
 #sidebarBtnU143:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U143-------------------------------*/
@@ -560,7 +643,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -568,18 +651,17 @@
 
 #sidebarBtnU144:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U144-------------------------------*/
-
 
 /*-----------------------1.5 ObjComp-------------------------------*/
 #sidebarBtn15ObjComp{
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -587,7 +669,7 @@
 
 #sidebarBtn15ObjComp:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------1.5 ObjComp-------------------------------*/
@@ -597,7 +679,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -605,7 +687,7 @@
 
 #sidebarBtnU15:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U15-------------------------------*/
@@ -615,7 +697,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -623,7 +705,7 @@
 
 #sidebarBtnU151:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U151-------------------------------*/
@@ -633,7 +715,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -641,7 +723,7 @@
 
 #sidebarBtnU152:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U152-------------------------------*/
@@ -651,7 +733,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -659,7 +741,7 @@
 
 #sidebarBtnU153:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U153-------------------------------*/
@@ -669,7 +751,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -677,21 +759,10 @@
 
 #sidebarBtnU154:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------U154-------------------------------*/
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -703,7 +774,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #6FA6CA;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -711,7 +782,7 @@
 
 #sidebarBtnEv:hover{
 
-	background-color: #7B8992;
+	background-color: #8D2258;
 
 }
 /*-----------------------EV-------------------------------*/
