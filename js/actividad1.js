@@ -1,9 +1,9 @@
 function checkAnswers() {
     checkAnswer('q1', 'a');
-    checkAnswer('q2', 'c');
+    checkAnswer('q2', 'a');
     checkAnswer('q3', 'b');
-    checkAnswer('q4', 'c');
-    checkAnswer('q5', 'c');
+    checkAnswer('q4', 'a');
+    checkAnswer('q5', 'a');
     checkAnswer('q6', 'b');
     checkAnswer('q7', 'c');
     checkAnswer('q8', 'c');
