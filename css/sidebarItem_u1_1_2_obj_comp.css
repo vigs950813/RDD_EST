@@ -177,7 +177,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #AE6188;
+	background-color: #8D2258;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -185,7 +185,7 @@
 
 #sidebarBtn12ObjComp:hover{
 
-	background-color: #8D2258;
+	background-color: #AE6188;
 
 }
 /*-----------------------1.2 ObjComp-------------------------------*/
@@ -233,7 +233,7 @@
 
 	color: white;
 	font-weight: bold;
-	background-color: #8D2258;
+	background-color: #AE6188;
 	transition: background-color 0.15s linear 0s;
 
 }
@@ -241,7 +241,7 @@
 
 #sidebarBtnU122:hover{
 
-	background-color: #AE6188;
+	background-color: #8D2258;
 
 }
 /*-----------------------U1122-------------------------------*/

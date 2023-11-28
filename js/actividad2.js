@@ -1,7 +1,7 @@
 function checkAnswers() {
     checkAnswer('q1', 'a');
     checkAnswer('q2', 'a');
-    checkAnswer('q3', 'c');
+    checkAnswer('q3', 'a');
     checkAnswer('q4', 'a');
     checkAnswer('q5', 'b');
     checkAnswer('q6', 'a');
