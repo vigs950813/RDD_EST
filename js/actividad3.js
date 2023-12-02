@@ -1,12 +1,14 @@
 function checkAnswers() {
-    checkAnswer('q1', 'c');
-    checkAnswer('q2', 'c');
-    checkAnswer('q3', 'b');
-    checkAnswer('q4', 'd');
-    checkAnswer('q5', 'c');
-    checkAnswer('q6', 'b');
-    checkAnswer('q7', 'c');
-    checkAnswer('q8', 'c');
+    checkAnswer('q1', 'a');
+    checkAnswer('q2', 'a');
+    checkAnswer('q3', 'a');
+    checkAnswer('q4', 'a');
+    checkAnswer('q5', 'b');
+    checkAnswer('q6', 'c');
+    checkAnswer('q7', 'a');
+    checkAnswer('q8', 'b');
+    checkAnswer('q9', 'a');
+    checkAnswer('q10', 'a');
 }
 
 function checkAnswer(questionName, correctAnswer) {
