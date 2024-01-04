@@ -70,3 +70,23 @@
 
 /*-----------------------TITULO IMAGENES-------------------------------*/
 
+/*-----------------------TITULO MATERIALES AUDIOVISUALES-------------------------------*/
+#sidebarBtnMAterialesAudiovisuales{
+
+	color: white;
+	font-weight: bold;
+	background-color: #AE6188;
+	transition: background-color 0.15s linear 0s;
+
+}
+
+
+#sidebarBtnMAterialesAudiovisuales:hover{
+
+	font-weight: bold;
+	background-color: #8D2258;
+
+}
+
+/*-----------------------TITULO MATERIALES AUDIOVISUALES-------------------------------*/
+
